@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@vercel/node": "^1.8.4",
+    "faunadb": "^3.0.1",
     "vercel": "^20.1.2"
   }
 }
