@@ -1,0 +1,7 @@
+{
+  "name": "requirepodcast-shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam Siekierski <a@siekierski.ml>",
+  "license": "MIT"
+}
