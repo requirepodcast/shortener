@@ -1,9 +1,11 @@
 {
   "name": "requirepodcast-shortener",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "Adam Siekierski <a@siekierski.ml>",
+  "author": "Require Podcast",
   "license": "MIT",
+  "scripts": {
+    "develop": "vercel dev"
+  },
   "dependencies": {
     "@vercel/node": "^1.8.4",
     "vercel": "^20.1.2"
