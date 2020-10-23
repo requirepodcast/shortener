@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    {
+      "source": "/:slug",
+      "destination": "/api/:slug"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://require.podcast.gq"
+    }
+  ]
+}
